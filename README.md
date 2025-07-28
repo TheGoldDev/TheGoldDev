@@ -48,16 +48,6 @@
 
 ---
 
-## 🧱 Projets en cours
-
-| Projet | Description |
-|--------|-------------|
-| 🔗 [crm-gestion-machines](https://github.com/TheGoldDev/crm-gestion-machines) | Application Symfony 7 permettant à une entreprise de suivre son parc machines, interventions techniques et historiques de maintenance |
-| 🔗 [mapbox-leaflet-cluster](https://github.com/TheGoldDev/mapbox-leaflet-project) | Carte interactive avec clustering de +1000 marqueurs via Leaflet et Mapbox |
-| 🔗 [portfolio-vite](https://github.com/TheGoldDev/portfolio-vite) | Portfolio responsive animé avec Vite.js, GSAP, et design personnalisé |
-
----
-
 ## 🏆 Trophées GitHub
 
 ![Trophées](https://github-profile-trophy.vercel.app/?username=TheGoldDev&theme=tokyonight&margin-w=5&no-frame=false)
@@ -70,17 +60,10 @@
 
 ---
 
-## ✍️ Citation du jour
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 ## 🌐 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-gioffredi/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ju.gfdi/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Julien#6004)
 
 ---
 
