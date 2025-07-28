@@ -60,9 +60,3 @@
 ## 🏆 GitHub Trophées
 
 ![Trophées](https://github-profile-trophy.vercel.app/?username=TheGoldDev&theme=tokyonight&margin-w=5&no-frame=false)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TheGoldDev&label=Visiteurs&color=1&icon=2&pretty=true" />
-</p>
