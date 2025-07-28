@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Je suis Développeur Front-End<br>👯 Je recherche une alternance de 2 ans<br>
 
+![Commits 2024](https://img.shields.io/badge/Commits%20en%202024-243-brightgreen)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julien-gioffredi/) 
